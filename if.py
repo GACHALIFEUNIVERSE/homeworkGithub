@@ -46,9 +46,10 @@ else:
      #   letter = 'F'
 
 #Q4 User input int 45 which letter the program return ?
-
+=> F
 #Q5 User input int 80 which letter the program return ?
-
+=> b
 #Q6 User input int 75 which letter the program return ?
-
+=> f
 #Q7 User input int 1 which letter the program return ?
+=> f
